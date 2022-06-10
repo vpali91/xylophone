@@ -1,7 +1,5 @@
-# xylophone
-
 Xylophone app
 
-## Getting Started
+Flutter mobile application.
 
-Az 5. Flutter app.
+This application an electronic xylophone application, you can play music with the textbuttons on your screen.
